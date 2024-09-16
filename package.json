@@ -1,0 +1,16 @@
+{
+  "name": "dungeongenerator",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A generator for 2d dungeon map layouts",
+  "main": "index.js",
+  "dev": "npm run dev",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}

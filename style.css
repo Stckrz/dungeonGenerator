@@ -1,0 +1,14 @@
+body{
+	background-color: lightblue;
+}
+.assbox{
+	height: 100dvh;
+	width: 100dvw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.canvas{
+	background: #fff;
+	margin: 20px;
+}
